@@ -1,0 +1,2 @@
+"# Expense Tracker" 
+Expense Tracker is a simple application that helps users record, manage, and analyze their daily income and expenses. It allows adding, updating, and deleting transactions, categorizing them (like food, travel, bills), and viewing summaries or reports. The project aims to promote better financial management by giving users a clear view of their spending patterns.
